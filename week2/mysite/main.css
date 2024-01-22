@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    font-size-adjust: 12px;
+}
+
+#headings {
+    background-color: slategray;
+}
+
+.mainText {
+    color:black
+}
+
+.big text{
+    font-size: 60px;
+}
+
+img{
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+    opacity: 3;
+}
