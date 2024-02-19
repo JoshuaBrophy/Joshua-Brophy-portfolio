@@ -1,0 +1,33 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: #000;
+    color: #00FF00;
+}
+
+#container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #222121;
+    border: 5px solid #00FF00;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 255, 0, 0.5);
+}
+
+#message {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+}
+
+#keyInfo {
+    font-size: 1.2em;
+    color: #00FF00;
+    margin-top: 20px;
+}
+
+p {
+    margin: 8px 0;
+}
